@@ -1,0 +1,12 @@
+*npm.txt*  Node Package Manager for Vim
+
+Author:  Afshin Mehrabani <afshin.meh@gmail.com>         *npm-author*
+License: Same terms as Vim itself (see |license|)
+
+INTRODUCTION                                    *npm*
+
+NPM is a package manager for NodeJs. NPM.vim is trying to help NodeJs users to work with NPM easily.
+
+At this version, you can only use this plugin for installing packages from NPM:
+
+:Npm socket.io
